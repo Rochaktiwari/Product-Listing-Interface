@@ -34,6 +34,5 @@ npm run dev
 
 ## Features
 - **Premium Design**: Sleek dark mode with glassmorphic cards and glowing borders.
-- **AI-Generated Assets**: Custom product images for tech hardware.
 - **Responsive Grid**: Fluid layout that adapts to all screen sizes.
 - **Micro-Animations**: Interactive hover effects and smooth transitions.
